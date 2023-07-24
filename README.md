@@ -1,10 +1,6 @@
-# Todo Application
+# Quiz Wizards
 
-Create lists with your daily tasks.
-
-## Features
-
-- Test your knowlegde answering the questions;
+Test your knowlegde answering the questions.
 
 ## Technologies used
 
